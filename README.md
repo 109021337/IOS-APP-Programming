@@ -18,5 +18,7 @@
 
 #### 使用ezoapp設計計算機，並整合進cordova app專案並於iphone模擬器上面並執行確認功能是否正常
 
-##### EZoApp 設計計算機
+####  EZoApp 設計計算機
 ![image](https://github.com/109021337/IOS-APP-Programming/assets/80087148/ab2077b9-80be-4672-a4d9-1234f2d01d42)
+
+#### ![image](https://github.com/109021337/IOS-APP-Programming/assets/80087148/866153c8-9f25-4de4-a19d-fb651f85ba7d)
